@@ -13,6 +13,5 @@ const CONFIG = {
     reply: 'Vì em đáng iu hiền lành nết na dễ thươngggg',
     mess: 'Em biết mà 🥰. Yêu anh nhiều nhắmm 😘😘',
     messDesc: 'Vì anh khen em nhiều quá nên em cho phép anh được tiếp tục yêu em đấy. Cầm quà cẩn thận không thằng khác cướp mất lại khóc nhé.',
-    btnAccept: 'Okiiiii lun',
-    messLink: 'http://fb.com/vuthphuonn' 
+    btnAccept: 'Okiiiii lun', 
 }
