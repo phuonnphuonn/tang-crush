@@ -15,3 +15,4 @@ const CONFIG = {
     messDesc: 'Vì anh khen em nhiều quá nên em cho phép anh được tiếp tục yêu em đấy. Cầm quà cẩn thận không thằng khác cướp mất lại khóc nhé.',
     btnAccept: 'Okiiiii lun',
     messLink: 'http://fb.com/vuthphuonn' 
+}
